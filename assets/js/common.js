@@ -10,20 +10,22 @@ window.onscroll = function () {
     }
 };
 
-function mypage(){
-    Swal.fire({
-        imageUrl: 'assets\\graphics\\common\\mypage.png',
-        title: " Are you sure? 🤔",
-        html: "You seem ready to leave!🚪<br/>Do you really want to quit? 😟",
-        showCancelButton: true,
-        confirmButtonText: 'Yes, Leave 🏠',
-        cancelButtonText: 'No, Stay 😌',
-        imageAlt: "Quit image"
-      }).then((result) => {
-        if(result.isConfirmed){
-            window.open('https://vidhey.netlify.app/','_blank');
-        } else {
-            /* if not quitted */
-        }       
-      });
+function mypage() {
+  Swal.fire({
+    imageUrl: 'assets/graphics/common/mypage.png', 
+    html: "You seem ready to leave! 🚪<br/>Do you really want to quit? 😟",
+    showCancelButton: true,
+    confirmButtonText: 'Yes, Leave 🏠',
+    cancelButtonText: 'No, Stay 😌',
+    imageAlt: "Quit image"
+  }).then((result) => {
+    if (result.isConfirmed) {
+      window.open('index.html', '_self'); 
+    } else {
+      // Not quitting
+      console.log("User decided to stay 😌");
+    }
+  });
+}
+
 }
