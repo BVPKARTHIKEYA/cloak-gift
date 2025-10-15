@@ -1,15 +1,9 @@
+
 # Cloak Gift 🎁
 
 Welcome to **Stegno**, a fun and secure steganography tool\! Unlike traditional steganography techniques, this web application presents a unique and interactive way to hide and reveal secret messages, all while keeping things wrapped up in a "gift box" metaphor. 🌟
 
-🚀 **Live Demo:** [Stegno Web App](https://stegno.netlify.app)
-
------
-# Cloak Gift 🎁
-
-Welcome to **Stegno**, a fun and secure steganography tool\! Unlike traditional steganography techniques, this web application presents a unique and interactive way to hide and reveal secret messages, all while keeping things wrapped up in a "gift box" metaphor. 🌟
-
-🚀 **Live Demo:** [Stegno Web App](https://stegno.netlify.app)
+🚀 **Live Demo:** [Stegno Web App](https://cloak-w.netlify.app/)
 
 -----
 
