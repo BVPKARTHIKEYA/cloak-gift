@@ -3,7 +3,7 @@
 
 Welcome to **Stegno**, a fun and secure steganography tool\! Unlike traditional steganography techniques, this web application presents a unique and interactive way to hide and reveal secret messages, all while keeping things wrapped up in a "gift box" metaphor. 🌟
 
-🚀 **Live Demo:** [Stegno Web App](https://cloak-w.netlify.app/)
+🚀 **Live Demo:** [Cloak-Gift](https://cloak-w.netlify.app/)
 
 -----
 
@@ -44,7 +44,7 @@ The UI is sleek and user-friendly, guiding users step by step through the proces
   - **Frontend:** HTML, CSS, JavaScript
   - **Encryption Methods:** Unicode binary, Morse code, XOR encryption
   - **Image Processing:** Image embedding for steganography
-  - **Deployment:** Hosted on [Netlify](https://stegno.netlify.app)
+  - **Deployment:** Hosted on [Netlify]((https://cloak-w.netlify.app/))
 
 -----
 
@@ -80,13 +80,13 @@ The combination of binary encoding, Morse code, and XOR encryption ensures that 
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/Vidhey012/steganography.git
+    git clone https://github.com/BVPKARTHIKEYA/cloak-gift.git
     ```
 
 2.  Navigate to the project directory:
 
     ```bash
-    cd steganography
+    cd cloak-gift
     ```
 
 3.  Run the project:
@@ -105,7 +105,7 @@ The project is deployed and accessible via [Netlify](https://stegno.netlify.app)
 
 ## 📬 Feedback
 
-I'd love to hear your thoughts on this project\! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/bhogadi-vidhey-aa62b71a8/) or open an issue on GitHub if you encounter any bugs or have suggestions for improvements. 😊
+I'd love to hear your thoughts on this project\! Feel free to reach out via [LinkedIn]() or open an issue on GitHub if you encounter any bugs or have suggestions for improvements. 😊
 
 -----
 
