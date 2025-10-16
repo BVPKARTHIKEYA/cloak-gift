@@ -1,22 +1,22 @@
 Cloak Gift 🎁
 
-Cloak Gift is a fun and secure steganography tool that allows you to hide and reveal secret messages using a “gift box” metaphor. 🌟
+Cloak Gift is an interactive and secure steganography web application that allows users to hide and reveal secret messages using a “gift box” metaphor. 🌟
 
 🚀 Live Demo: Cloak-Gift
 
 Project Overview
 
-This web app lets users encrypt messages in a secure and interactive way. The UI is intuitive, making encryption feel like preparing a gift and decryption like opening one.
+Cloak Gift lets users encrypt messages in a fun and intuitive way. The UI is designed to make encryption feel like wrapping a gift and decryption like unwrapping it. Messages are embedded securely within images for added protection.
 
 Features
 
 Interactive Interface: Encrypt and decrypt messages like wrapping and unwrapping gifts.
 
-Encryption: Uses Unicode binary, Morse code, and XOR encryption for robust security. 🛡️
+Encryption: Combines Unicode binary, Morse code, and XOR encryption for robust security. 🛡️
 
-Image Embedding: Hide encrypted messages within images. 🎀
+Image Embedding: Encrypted messages are hidden within images. 🎀
 
-Decryption: Easily recover the hidden message using a secret key. 🗝️
+Decryption: Easily recover hidden messages using a secret key. 🗝️
 
 How It Works
 1. Create a Gift Box (Encrypt Message)
@@ -25,11 +25,11 @@ Enter your secret message. 🎁
 
 Enter a secret key. 🧾
 
-The message is converted into Unicode binary, the key into Morse binary, and then both are XORed.
+The message is converted to Unicode binary, the key into Morse binary, and both are XORed.
 
 Upload an image to hide the encrypted message.
 
-Generate and download your “gift box.”
+Generate and download the final “gift box.”
 
 2. Open a Gift Box (Decrypt Message)
 
@@ -37,7 +37,7 @@ Upload the steganographic image. 📦
 
 Enter the secret key.
 
-The hidden message is revealed!
+The hidden message is revealed.
 
 Tech Stack
 
@@ -47,18 +47,21 @@ Encryption: Unicode binary, Morse code, XOR
 
 Deployment: Netlify (Live Demo)
 
-Run Locally
-git clone https://github.com/Vidhey012/steganography.git
-cd steganography
+
+git clone https://github.com/BVPKARTHIKEYA/cloak-gift.git
+cd cloak-gift
 start index.html
+
+
+
 
 Future Enhancements
 
-Add more encryption methods 🔐
+Add support for more encryption methods 🔐
 
-Improve UI with animations 💻
+Improve UI with animations and visual feedback 💻
 
-Batch process multiple messages 📑
+Add batch processing for multiple messages 📑
 
 Author
 
